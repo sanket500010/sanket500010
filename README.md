@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Retrieval Augmented Generation (RAG)**
 
-- 🌱 I’m currently learning **Use of AI agents for Data Analysis**
+- 🌱 learning **Use of AI agents for Data Analysis**
 
 - 👯 I’m looking to collaborate on **Data analysis projects**
 
