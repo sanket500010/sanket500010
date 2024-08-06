@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanket Gattuwar</h1>
-<h3 align="center">A passionate Data Analyst/Scientist from India</h3>
+<h3 align="center">A passionate Data Analyst/Scientist </h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 - 🔭 I’m currently working on **Retrieval Augmented Generation (RAG)**
